@@ -1,0 +1,6 @@
+﻿dashboard_page,key_question,main_dataset,recommended_charts,filters
+1. 전국 문화시설 현황,"시설은 어디에 많고, 관람객 수는 어느 지역에서 높은가?",tableau_facility_main.csv / tableau_region_summary.csv,"지도, 지역별 막대그래프, KPI 카드","시설 유형, 권역, 시도, 관람객 수 구간"
+2. 시설 유형별 비교,박물관과 미술관은 운영·규모·관람객 수에서 어떤 차이가 있는가?,tableau_type_summary.csv / tableau_facility_main.csv,"박스플롯, 막대그래프, 요약 테이블","시설 유형, 지역, 권역"
+3. 활성화 요인 분석,관람객 수와 관련된 주요 운영·시설 요인은 무엇인가?,tableau_factor_summary.csv / tableau_facility_main.csv,"변수 중요도 막대그래프, 상관계수 막대그래프, 산점도","요인 그룹, 시설 유형, 지역"
+4. 서비스 제공 현황,모바일/음성 제공 시설은 어떤 특성을 보이는가?,tableau_facility_main.csv / tableau_region_summary.csv,"서비스 제공률 막대그래프, 관람객 수 비교 그래프","서비스 제공 여부, 시설 유형, 지역"
+5. 조건 대비 성과 탐색,비슷한 조건 대비 예상보다 관람객 수가 높은/낮은 시설은 어디인가?,tableau_prediction_performance.csv,"실제 vs 예측 산점도, 오차 막대그래프, 시설 리스트","예측 성과 그룹, 시설 유형, 지역"
