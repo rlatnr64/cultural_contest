@@ -1,0 +1,2 @@
+﻿group_col,n_groups,n_obs,anova_F,anova_p,anova_sig,eta_squared,kruskal_H,kruskal_p,kruskal_sig,epsilon_squared
+REGION_GROUP,6,1137,7.180813285019459,1.2561255559855086e-06,***,0.030768653103671367,39.807376217476865,1.633064365968274e-07,***,0.030775752623763804

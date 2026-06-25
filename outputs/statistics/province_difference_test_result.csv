@@ -1,0 +1,2 @@
+﻿group_col,n_groups,n_obs,anova_F,anova_p,anova_sig,eta_squared,kruskal_H,kruskal_p,kruskal_sig,epsilon_squared
+CTPRVN_NM,20,1137,2.640960436041349,0.0001575517158839145,***,0.042991075577808756,55.89804349380865,1.6918027044216692e-05,***,0.03303316337852162
